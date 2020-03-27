@@ -19,8 +19,8 @@ Operations: Internal Team / Organization
 Actions: The next step TODO in the focus areas like FYI, ImmediateAction, DelayAction, PendingAction, Outdated (old infra emails), Useless, SPAM
 
 ## Benefits
-* Effective Meeting management
-* Automated delegation of mail threads 
+* Effective Meeting management with ROI on Meeting hours, Per customer meeting tracking
+* Automated delegation recommendations of mail threads based on prior forwards/delegations
 * Track your Operations with Customer requirements
 * Track your Operations with Suppliers availability
 * Track productivity of team with Product requirements/availability
