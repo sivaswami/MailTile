@@ -10,14 +10,15 @@ Mail Communication is a critical channel in enterprise. The pain is getting inbo
 Customers : This could be external customer or internal teams which consume our product
 Suppliers : Internal team / External supplier who provide information / data to our product
 Operations: Internal Team / Organization
-
+Actions: The next step TODO in the focus areas like FYI, ImmediateAction, DelayAction, PendingAction, Outdated (old infra emails), Useless, SPAM
 
 * Team / Component based Summary – Much organized email tracking in Enterprise level 
 * Track your Operations with Customer separately
 * Track your Operations with Suppliers separately
 
-## Sample Tracking Tile for Customer vs Component
-Similar tiles will be generated for Supplier vs Component,  Action vs Supplier, Action vs Customers, etc.
+## Sample Tracking Tile for Customer vs Component(Operations)
+Similar tiles will be generated for Supplier vs Operations,  Action vs Supplier, Action vs Customers, Action vs Operations
+etc.
 
 ![Design](https://github.com/sivaswami/MailTile/blob/master/architecture.png)
 
