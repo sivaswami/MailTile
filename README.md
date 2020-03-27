@@ -18,9 +18,15 @@ Suppliers : Internal team / External supplier who provide information / data to 
 Operations: Internal Team / Organization
 Actions: The next step TODO in the focus areas like FYI, ImmediateAction, DelayAction, PendingAction, Outdated (old infra emails), Useless, SPAM
 
-* Team / Component based Summary – Much organized email tracking in Enterprise level 
-* Track your Operations with Customer separately
-* Track your Operations with Suppliers separately
+## Benefits
+* Effective Meeting management
+* Automated delegation of mail threads 
+* Track your Operations with Customer requirements
+* Track your Operations with Suppliers availability
+* Track productivity of team with Product requirements/availability
+* Automated Weekly/Sprint based "TODO" reports and "Accomplishment" reports tied to JIRA
+* Automated JIRA/Bug updates
+
 
 ## Sample Smart Tile for Customer vs Component(Operations)
 Similar tiles will be generated for Supplier vs Operations,  Action vs Supplier, Action vs Customers, Action vs Operations
