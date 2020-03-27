@@ -1,4 +1,5 @@
 # SMART MAIL TILE ANALYTICS
+Please reach me for the code if you are interested. WIP.
 ## Positioning Statement
 Mail analytics app which optimizes mail handling practices with Focus areas : Customer, Suppliers and Operations 
 by applying Machine learning, NLP technologies on emails
