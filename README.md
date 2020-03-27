@@ -1,4 +1,4 @@
-# MAIL TILE ANALYTICS
+# SMART MAIL TILE ANALYTICS
 ## Positioning Statement
 Mail analytics app which optimizes mail handling practices with Focus areas : Customer, Suppliers and Operations 
 by applying Machine learning, NLP technologies on emails
@@ -16,7 +16,7 @@ Actions: The next step TODO in the focus areas like FYI, ImmediateAction, DelayA
 * Track your Operations with Customer separately
 * Track your Operations with Suppliers separately
 
-## Sample Tracking Tile for Customer vs Component(Operations)
+## Sample Smart Tile for Customer vs Component(Operations)
 Similar tiles will be generated for Supplier vs Operations,  Action vs Supplier, Action vs Customers, Action vs Operations
 etc.
 
